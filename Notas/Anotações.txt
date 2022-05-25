@@ -82,7 +82,8 @@ com prefixos "_", ou campos estáticos privado ou interno utilizando o prefixo	|
 Umas das linguagens surpotadas na .NET é C#, F# e a VisualBasic essas são as	|
 principais e temos outras como Javascript, Typescript(desenvlvida pela		| 
 Microsoft), Python, SQL e o C++.						|
-
+--------------------------------------------------------------------------------|
+--------------------------------------------------------------------------------|
 
 
 
