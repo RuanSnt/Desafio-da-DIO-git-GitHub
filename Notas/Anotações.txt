@@ -1,1 +1,90 @@
-Um pequeno teste para os preoximos passos dentro desta plataforma.
+.NET: é uma plataforma de bem diversificada em ferremantas,			|
+que permite o desenvolvimento de diversos tipos de aplicações			|
+										|
+ASP.NET faz parte do .NET para criação web					|	
+--------------------------------------------------------------------------------|
+--------------------------------------------------------------------------------|	
+É gratuito, tem vários tipos de aplicações como web, mobile, 			|	
+cloud, machine learning, jogos, internet das coisas, microservices		|	
+e entre outros.									|
+Funciona em varios tipos de sistemas operacionais como windows, 		|
+linux, mac e em arquiteturas diferentes também.					|
+										|
+Visual studio, VScode, codespaces esses são IDEs usados pelo .NET		|
+e as linguagens são C#, F#, Visual Basic. Para desenvolver algo 		|
+em .NET temos 2 bibliotecas principais que são a SDK e Runtime.			|
+Temos o NUGET que é um gerenciador de dados, tem como baixar pacotes		|
+via prompt de comando e possui a interface gráfica. Já na parte			|
+de aceso de dados é o Entity Framework core que é um ORM, ele 			|
+pega tudo q é orientado a objeto e transforma em tabel, e o LINQ		|
+que serve para consultar dados dentro de memorias, dados, banco de		|
+uma forma padrão ou seja uma sintaxe unificada para todos eles, tornando	|
+muito fácil.									|
+Tem suporte e integração ao GitHub Action, Azure Devops e outros plugins 	|
+e o gerenciamento de memória automatico.					|
+--------------------------------------------------------------------------------|
+--------------------------------------------------------------------------------|
+.NET Framework, pensado para desenvolver e executar apps no windows, ele	|
+tem um mecanismo que serve para gerenciar a execução de apps chamado de 	|
+"cammon language runtime", e dentro dele tem o "JIT" que é um compilador	|
+de tempo de execução. Tem bibliotecas e classes genéricas e as especificas	|
+pra cada plataforma.								|
+Características principais temos o gerenciamento de memória, sistemas de	|
+tipos comum(definidos pelo próprio framework), grande e especificas		|
+bibliotecas de classes utilitárias, interoperabilidade entre linguagens,	|
+compatibilidade de versões e uso do .NET Standard.				|
+--------------------------------------------------------------------------------|
+--------------------------------------------------------------------------------|
+.NET plataforma cruzada(Linux, Windows e Mac OS), produzir um produto		|
+com base de código única, Open Source -> Mit e Apache 2, .NET é a junção da	|
+.NET Core mais .NET Framework mais Xamarin mais Mono. Tudo isso junto forma	|
+a .NET										|
+--------------------------------------------------------------------------------|
+--------------------------------------------------------------------------------|
+Xamarin é uma plataforma de desenvolvimento mobile, com auto desempenho, tem	|
+uma criação de interface nativa em cada plataforma Android, IOS, MacOS e 	|
+Windows) e um código de lógica compartilhado. E é cláro possui todos os		|
+benefícios já citados da plataforma .NET.					|
+Podemos compilar em linguagem nativa mantendo um unico código de lógica.	|
+Executado no ambiente Mono + ART esses runtime consegue acessar namspace	| 
+atraves de interface.								|
+no IOS ele é compilado em ahead of time ele é totalmente compilado antes da sua |
+execução. Tem 2 runtimes conversados por interface dentro deste ambiente, tudo	|
+rodando dentro do UNIX-like Kernel(por causa de um sitema de segurança).	|
+--------------------------------------------------------------------------------|
+--------------------------------------------------------------------------------|
+Um bom código deve ser confiável, sustentável e eficiente. Más cláro sempre	|
+o mais simples possível, facilitando a manutenção de códigos e utilizar boas 	|
+práticas de codificação, como um código limpo(clean code)			|
+Clean Code é nada mais nada menos que um conjunto de boas práticas na escrita	|
+de software para obter melhorar a leitura e é cláro a manutenção do mesmo.	|
+E o que devemos seguir para fazer o clean code? Temos algumas regras como,	|
+seguir sempre as convenções adotadas pela equipe, "KISS"(keep it Stupid Simple)	|
+manter isto esstupidamente simples, devolva o código mais limpo do que você 	|
+encontrou, busque sempre entender e solucionar os problemas a partir de sua	|
+raiz.										|
+Comece escrevendo de uma forma e termine na mesma forma, isto gera um código 	|
+consistente, utilize variáveis concisas e que passem a informação necessária,	|
+observe a necessidade de criação de objetos de valor ao invés do uso de tipos 	|
+primitivos, sempre evitando dependências lógicas econdicionais negativas	|
+desta forma vôce terá uma boa leitura do seu código.				|
+--------------------------------------------------------------------------------|
+--------------------------------------------------------------------------------|
+Notação Húngra, não é recomendável mas ela serve para ajudar a reconhecer o 	|
+tipoda variável, Camel case escrevenr palavras com a primeira sendo minuscula	|
+já a Pascal Case sendo a maiuscula a primeira contrário da Camel		|
+A Microsoft usa a PascalCase para classes, interfaces e membros de tipos	|
+públicos. já a CamelCase é usada em campos privados e internos e ainda usadas 	|
+com prefixos "_", ou campos estáticos privado ou interno utilizando o prefixo	|
+"S_".										|
+--------------------------------------------------------------------------------|
+--------------------------------------------------------------------------------|
+Umas das linguagens surpotadas na .NET é C#, F# e a VisualBasic essas são as	|
+principais e temos outras como Javascript, Typescript(desenvlvida pela		| 
+Microsoft), Python, SQL e o C++.						|
+
+
+
+
+
+							
